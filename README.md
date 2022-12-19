@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Divulgative Science
+#### Atmospheric Science Codes
+
+
+- <a href="https://doi.org/10.5281/zenodo.3672001"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3672001.svg" align="right"/></a> **[FunFAN: set of functions for aerosols studies (2021)](https://github.com/RCHG/FunFAN)**
+
+#### Science (divulgative) 
 
 - **[El creciente papel del ozono en el cambio climático (2020)](https://theconversation.com/el-creciente-papel-del-ozono-en-el-cambio-climatico-141002)**
-- 
+
