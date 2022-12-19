@@ -1,4 +1,5 @@
-### Hi there 👋
+<p><pre align="center">
+<strong>Ramiro Checa'Garcia /</strong> <a href="https://rchg.srht.site">Blog</a> / <a href="https://rchg.github.io">Github Pages</a> / <a href="https://github.com/rchg">GitHub</a></pre></p>
 
 <!--
 **RCHG/RCHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
