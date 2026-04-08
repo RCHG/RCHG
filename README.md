@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 #### Atmospheric Science Codes
 
+- **[ecaeropt: ECMWF aerosols optics package](https://github.com/ecmwf-ifs/ecaeropt)**
 
 - <a href="https://doi.org/10.5281/zenodo.3672001"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3672001.svg" align="right"/></a> **[FunFAN: set of functions for aerosols studies (2021)](https://github.com/RCHG/FunFAN)**
 
